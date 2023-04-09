@@ -1,0 +1,57 @@
+.table{
+    width: 100%;
+}
+body{
+    font-family: Vazir;
+    font-size:large;
+    font-weight:600;
+}
+#detils{
+    background-color:#3d6f74;
+}
+#white1{
+    color: white;
+    background-color:#3d6f74;
+}
+#white2{
+    color: white;
+    font-size: larger;
+    
+}
+div{
+    border: 1px solid black;
+}
+.nav{
+    width: 100%;
+    max-height: 500px;
+}
+img{
+    display:inline;    
+}
+h2,h4{
+    
+    display: inline;
+    right: 100px;
+}
+.main1{
+    width: 30%;
+    text-align: center;
+    display:inline;
+    float: right;
+    min-height: 350px;
+}
+.main2{
+    width: 69%;
+    text-align: center;
+    display: inline;
+    float: left;
+    text-align: right;
+    min-height: 350px;
+}
+li{
+    font-size: larger;
+}
+.footer{
+    text-align: center;
+}
+
